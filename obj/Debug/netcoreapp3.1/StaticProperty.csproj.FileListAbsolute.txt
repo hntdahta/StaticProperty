@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.exe
+C:\Users\Administrator\source\repos\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.deps.json
+C:\Users\Administrator\source\repos\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.runtimeconfig.json
+C:\Users\Administrator\source\repos\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.dll
+C:\Users\Administrator\source\repos\StaticProperty\bin\Debug\netcoreapp3.1\StaticProperty.pdb
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.dll
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.pdb
+C:\Users\Administrator\source\repos\StaticProperty\obj\Debug\netcoreapp3.1\StaticProperty.genruntimeconfig.cache
